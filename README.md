@@ -57,18 +57,6 @@ systemctl restart wg-quick@wg0
 
  ## For Buy Script : Contact Telegram @mintpulut <a href="https://t.me/mintpulut" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
- ## Main Menu
- 
-![IMG_20220321_093514](https://user-images.githubusercontent.com/96321013/159195579-67df9a75-b4cc-45eb-9cf5-433965f069ed.jpg)
-
-  ## Status Running
- 
-![IMG_20220321_093550](https://user-images.githubusercontent.com/96321013/159195645-0e972ccf-6fe0-41bf-8339-cdaa64f3041e.jpg)
-
-  ## Service & Port
- 
-![IMG_20220321_093533](https://user-images.githubusercontent.com/96321013/159195702-f76319a9-1c77-42ad-af9e-ea8f3cbdf293.jpg)
-
 ## Description :
 
   Service & Port
