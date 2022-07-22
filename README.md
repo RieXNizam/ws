@@ -1,4 +1,4 @@
-# Script Nizam (V1-Websocket)
+# Script Nizam (Duniawi)
  Welcome Dear😊
 
  <h2 align="center">AutoScript VPN By Nizam <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
